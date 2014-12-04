@@ -2,8 +2,6 @@
 *.log
 *.aux
 *.bbl
-*.pdf
-!bibliografia/**/*
 *.backup
 *.blg
 .idea/*
